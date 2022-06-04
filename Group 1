@@ -1,4 +1,5 @@
-https://github.com/Lucas-Balduzzi/Primer-proyecto-TSWAD.git
+if __name__ == '__main__':
+    print("Hecho")
 print("Primer Proyecto Programadoción inicial -Tecn.Sup.I.T.4.0")
 print("Realizaremos 3 operaciones básicas:")
 print("Ingresaremos valores enteros para luego, sumar, restar y multiplicar.")
