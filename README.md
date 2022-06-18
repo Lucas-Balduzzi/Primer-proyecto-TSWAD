@@ -3,4 +3,5 @@ Bueno chicos, este es el primer intento. Veremos que tal sale. Ya esta hecho, en
 
 Aqui probando como se actualiza el README. Silvia Monzón
 
-Reinicio del Main
+Creo que ya tengo entendido lo de Github, sin usar Git.
+Pude clonar bien los repository. Hagan la clonación desde la rama "Develop"
