@@ -1,8 +1,3 @@
-<<<<<<< Updated upstream:GRUPO G4 de aula 5
-=======
-# Voy a introducir unos cambios para ver si se actualiza el git
-
->>>>>>> Stashed changes:TWSAD Group 4 - Class 5
 print("Primer Proyecto Programador")
 print("Realizaremos 3 operaciones básicas:")
 print("Ingresaremos valores enteros para luego, sumar, restar y multiplicar.")
