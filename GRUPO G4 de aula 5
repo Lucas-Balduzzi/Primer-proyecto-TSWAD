@@ -1,0 +1,32 @@
+<<<<<<< Updated upstream:GRUPO G4 de aula 5
+=======
+# Voy a introducir unos cambios para ver si se actualiza el git
+
+>>>>>>> Stashed changes:TWSAD Group 4 - Class 5
+print("Primer Proyecto Programador")
+print("Realizaremos 3 operaciones básicas:")
+print("Ingresaremos valores enteros para luego, sumar, restar y multiplicar.")
+print("Ejemplo 1, Suma:")
+def suma(num1, num2,num3):
+    return num1 + num2 + num3    
+num1= int(input("ingrese el primer valor para la realizar la suma: "))
+num2= int(input("Ingrese segundo valor a sumar: "))
+num3= int(input("Ingrece tercer valor para finalizar: "))
+print("Ejemplo 2, Resta:")
+def resta(num1, num2):
+    return num1 - num2
+num1= int(input("ingrese el primer valor para la realizar la resta: "))
+num2= int(input("Ingrese segundo valor a restar: "))
+print("Ejemplo 3, Multiplicación:")
+def producto(num1, num2,num3):
+    return num1 * num2 * num3
+num1= int(input("ingrese el primer valor para la realizar la multiplicación: "))
+num2= int(input("Ingrese el segundo valor a multiplicar: "))
+num3= int(input("Ingrese el tercer valor a multiplicar: "))
+num4= int(input("Ingrese el cuarto valor para finalizar"))
+print("")
+print("El resultadod de la suma es igual a ",suma(num1,num2,num3))
+print("El resultado de la resta es igual a ",resta(num1,num2))
+print("El producto de la multiplicación es igual a ",producto(num1,num2,num3))
+print("")
+print("Cursante = Balduzzi Lucas.")
