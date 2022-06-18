@@ -26,4 +26,4 @@ print("El producto de la multiplicación es igual a ",producto(num1,num2,num3))
 print("")
 print("Cursante = Balduzzi Lucas.")
 
-#Nueva entrada para DEVELOP a Main
+#Nuevo registro Main
