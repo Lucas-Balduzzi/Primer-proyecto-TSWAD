@@ -3,5 +3,4 @@ Bueno chicos, este es el primer intento. Veremos que tal sale. Ya esta hecho, en
 
 Aqui probando como se actualiza el README. Silvia Monzón
 
-CAMBIOS a MAIN
-Cambio 5
+Reinicio del Main
