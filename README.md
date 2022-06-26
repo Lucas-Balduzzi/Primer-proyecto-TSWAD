@@ -6,3 +6,9 @@ Aqui probando como se actualiza el README. Silvia Monzón
 Creo que ya tengo entendido lo de Github, sin usar Git.
 Pude clonar bien los repository. Hagan la clonación desde la rama "Develop"
 # Es así lo que decis Lucas, yo modique sobre develop... y no aparece en main, hasta que haga pull request.
+
+Probando Actualizacion, sobre la rama que se creo especialmente para la tarea. 
+Actualizando Readme Nuevamente. 
+Se creo una issue y se asocia con la rama creada, para no trabajar sobre la rama principal (main). 
+Se va a realizar un pull request, sin revision de ninguno de los compañeros, teniendo en cuenta que la actualizacion es sobre un archivo de texto. 
+Jose Pablo Gallotti. 
