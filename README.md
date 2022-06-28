@@ -18,3 +18,5 @@ Actualizando Readme Nuevamente.
 Se actualizó una issue y se asocia con la rama creada, para no trabajar sobre la rama principal (main). 
 Se va a realizar un pull request. 
 Silvia Carina Monzón. 
+
+Agregue un archivo Guia_Introduccion_BD.pdf   Silvia Monzon
