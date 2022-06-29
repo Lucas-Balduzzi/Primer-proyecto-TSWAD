@@ -20,3 +20,6 @@ Se va a realizar un pull request.
 Silvia Carina Monzón. 
 
 Agregue un archivo Guia_Introduccion_BD.pdf   Silvia Monzon
+
+Incorporé Resumen de clase de Profesores Viviana Gillén y Sebastián Galván
+Como crear y trabajar con repositorio, proyecto, issue, milestone, etc. Ademas como clonar un proyecto y trabajar con ramas, pull request, merge y push. Silvia Monzon
