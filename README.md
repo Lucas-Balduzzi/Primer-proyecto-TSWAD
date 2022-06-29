@@ -25,5 +25,3 @@ Silvia Carina Monzón.
 Agregue un archivo Guia_Introduccion_BD.pdf   Silvia Monzon
 
 # Con numeral aparece la descricion en grande, e indica que hay que agregar 
-
-
