@@ -6,21 +6,6 @@
 
 #Artefactos Scrum
 
-Palabras Clave
+#Palabras Clave:
 
-· Product Backlog
-
-
-· Product Goal
-
-
-· Sprint Backlog
-
-
-· Sprint Goal
-
-
-· Incremento
-
-
-· Definición de Hecho
+("Product Backlog") - ("Product Goal") - ("Sprint Backlog") - ("Sprint Goal") - ("Incremento") - ("Definición de Hecho")
