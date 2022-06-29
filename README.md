@@ -4,7 +4,7 @@ Curso: Programador
 Grupo 4 Aula 5
 Artefactos Scrum Resumen:
 Palabras claves a buscar:
-    ·pila de producto,
+    ·pila de producto
     ·product backlog
     ·product goal
     ·sprint backlog
@@ -44,6 +44,7 @@ Compromiso: Definición de Hecho
     La Definición de Terminado crea transparencia al proporcionar a todos una comprensión compartida de qué trabajo se completó como parte del Incremento. Si un elemento de la Lista de Producto no cumple con la Definición de Terminado, no se puede publicar ni presentar en la Revisión del Sprint. En su lugar, vuelve a Product Backlog para futuras consideraciones.
     Si la Definición de Terminado para un incremento es parte de los estándares de la organización, todos los Equipos Scrum deben seguirla como mínimo. Si no es un estándar organizacional, el Equipo Scrum debe crear una Definición de Terminado apropiada para el producto.
     Los Desarrolladores están obligados a cumplir con la Definición de Listo. Si hay varios Equipos Scrum trabajando juntos en un producto, deben definir y cumplir mutuamente con la misma Definición de Listo.
+
 #Agregue un archivo Guia_Introduccion_BD.pdf   Silvia Monzon
 
  
