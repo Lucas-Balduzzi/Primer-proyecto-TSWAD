@@ -1,10 +1,10 @@
-#Primer Trabajo Práctico. --Curso PROGRAMADOR --Grupo 4 - Aula 5
+# Primer Trabajo Práctico. --Curso PROGRAMADOR --Grupo 4 - Aula 5
 
-#Resúmenes de Curso:
+# Resúmenes de Curso:
 
-#Artefactos Scrum
+# Artefactos Scrum
 
-#Palabras Clave:
+Palabras Clave:
 
 ("Product Backlog") - ("Product Goal") - ("Sprint Backlog") - ("Sprint Goal") - ("Incremento") - ("Definición de Hecho")
 
