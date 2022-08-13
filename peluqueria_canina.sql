@@ -10,14 +10,14 @@ CREATE TABLE IF NOT EXISTS Dueno (
 CREATE TABLE IF NOT EXISTS Perro (
     ID_Perro INT NOT NULL auto_increment,
     Nombre VARCHAR (50) NOT NULL,
-    Fecha_nac VARCHAR (50),
+    Fecha_nac DATE,
     Sexo VARCHAR (50),
     DNI_dueno INT NOT NULL,
     PRIMARY KEY (ID_Perro),
     FOREIGN KEY (DNI_dueno) REFERENCES Dueno (DNI));
 CREATE TABLE IF NOT EXISTS Historial (
 	ID_Historial INT NOT NULL auto_increment,
-    Fecha timestamp,
+    Fecha DATE,
     Perro INT,
     Descripcion VARCHAR (255),
     Monto INT,
