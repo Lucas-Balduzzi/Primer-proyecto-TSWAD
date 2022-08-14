@@ -19,3 +19,6 @@ SELECT h.Monto FROM Historial h WHERE h.Fecha BETWEEN 20220701 AND 20220731;
 INSERT INTO Historial (Fecha,Perro,Descripcion,Monto)
 VALUES (20220813,10,"Croquetas",1300);
 UPDATE Dueno SET Direccion = "Libertad 123" WHERE DNI = 45888777;
+TRUNCATE Historial;
+SELECT p.Nombre FROM PErro p JOIN Historial h WHERE p.Fecha_nac > 20180813 AND h.Fecha < 20220101;
+SELECT p.Nombre FROM Perro p WHERE p.Sexo = "Macho" AND p.Fecha_nac BETWEEN 20200101 AND 20221231;
